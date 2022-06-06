@@ -11,10 +11,13 @@ Our projects start as small seed that turned into amazing tree every student ben
 - Django
 - Heroku
 - PosgreSQL
+- SQLite
 - GraphQL
 - Reach.js
 - Vercel
 - Next.js
+- Cloudinary
+- VS Code
 
 ## Do we pay to keep it up?
 
