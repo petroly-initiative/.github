@@ -17,7 +17,6 @@ Our projects start as small seed that turned into amazing tree every student ben
 - Vercel
 - Next.js
 - Cloudinary
-- VS Code
 
 ## Do we pay to keep it up?
 
