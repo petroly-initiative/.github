@@ -18,7 +18,10 @@ Our projects start as small seed that turned into amazing tree every student ben
 - Next.js
 - Cloudinary
 
-## Do we pay to keep it up?
+## Do we pay to keep it up? 
+
+[Sponsor Us](https://github.com/sponsors/ammar-faifi/button)
+
 
 Yes. We pay for many services to keep our project up, and easy accessible to every student. That is our goal, free useful digital servcies. We welcome your kind sponsor.
 
